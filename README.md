@@ -1,2 +1,3 @@
 # weakmap
-A map with weak pointers for the values
+
+A map with weak pointers for the keys.
